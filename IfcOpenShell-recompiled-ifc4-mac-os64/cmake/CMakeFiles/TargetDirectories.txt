@@ -1,0 +1,10 @@
+/Users/Zhan_/Desktop/IfcOpenShell-1-master/cmake/CMakeFiles/list_install_components.dir
+/Users/Zhan_/Desktop/IfcOpenShell-1-master/cmake/CMakeFiles/rebuild_cache.dir
+/Users/Zhan_/Desktop/IfcOpenShell-1-master/cmake/CMakeFiles/edit_cache.dir
+/Users/Zhan_/Desktop/IfcOpenShell-1-master/cmake/CMakeFiles/install/local.dir
+/Users/Zhan_/Desktop/IfcOpenShell-1-master/cmake/CMakeFiles/IfcConvert.dir
+/Users/Zhan_/Desktop/IfcOpenShell-1-master/cmake/CMakeFiles/IfcGeomServer.dir
+/Users/Zhan_/Desktop/IfcOpenShell-1-master/cmake/CMakeFiles/install/strip.dir
+/Users/Zhan_/Desktop/IfcOpenShell-1-master/cmake/CMakeFiles/install.dir
+/Users/Zhan_/Desktop/IfcOpenShell-1-master/cmake/CMakeFiles/IfcGeom.dir
+/Users/Zhan_/Desktop/IfcOpenShell-1-master/cmake/CMakeFiles/IfcParse.dir
