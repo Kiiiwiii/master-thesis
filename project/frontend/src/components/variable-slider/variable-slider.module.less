@@ -1,0 +1,28 @@
+@import '~antd/dist/antd.less';
+
+.wrapper{
+  position: relative;
+  .slider-group {
+    margin-bottom: 30px;
+
+    &__unchecked {
+      opacity: 0.3;
+    }
+
+    &__header {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    &__info {
+      font-size: @font-size-sm;
+    }
+  }
+
+  .checkbox {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+}
+

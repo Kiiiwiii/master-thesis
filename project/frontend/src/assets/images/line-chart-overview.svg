@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="134px" height="134px" viewBox="0 0 134 134" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>line-chart-overview</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Chart-Icon-Sets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-522.000000, -383.000000)">
+            <g id="line-chart-overview" transform="translate(522.000000, 383.000000)">
+                <circle id="Oval" fill="#1890FF" cx="67" cy="67" r="67"></circle>
+                <g id="line-chart" transform="translate(27.000000, 37.000000)">
+                    <g id="two-dimensional-axes" fill="#FFFFFF">
+                        <rect id="Rectangle" x="0" y="0" width="4" height="60" rx="2"></rect>
+                        <rect id="Rectangle" transform="translate(40.000000, 58.000000) rotate(90.000000) translate(-40.000000, -58.000000) " x="38" y="18" width="4" height="80" rx="2"></rect>
+                    </g>
+                    <polyline id="Path-7" stroke="#FFFFFF" stroke-width="2" points="4 25.9698992 21 15 31 45.2187594 40 35.5943293 62 15 69.2572966 32.1022739"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

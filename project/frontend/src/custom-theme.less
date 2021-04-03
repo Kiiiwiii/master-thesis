@@ -1,0 +1,29 @@
+@import './variables.less';
+@import '~antd/lib/style/themes/default.less';
+
+#root {}
+.ant-drawer-header {
+  height: 55px;
+}
+.ant-drawer-body {
+  height: ~"calc(100% - 55px)";
+}
+.ant-divider-horizontal.ant-divider-with-text::before,
+.ant-divider-horizontal.ant-divider-with-text-left::before,
+.ant-divider-horizontal.ant-divider-with-text-right::before,
+.ant-divider-horizontal.ant-divider-with-text::after,
+.ant-divider-horizontal.ant-divider-with-text-left::after,
+.ant-divider-horizontal.ant-divider-with-text-right::after {
+  border-top-color: @border-color-base !important;
+}
+
+.ant-steps-item-process>.ant-steps-item-content>.ant-steps-item-title::after{
+  background-color: @border-color-base !important;
+}
+
+
+.ant-card-meta-description{
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}

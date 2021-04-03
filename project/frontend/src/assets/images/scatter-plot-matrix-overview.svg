@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="134px" height="134px" viewBox="0 0 134 134" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>scatter-plot-matrix-overview</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Chart-Icon-Sets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-887.000000, -216.000000)">
+            <g id="scatter-plot-matrix-overview" transform="translate(887.000000, 216.000000)">
+                <circle id="Oval" fill="#1890FF" cx="67" cy="67" r="67"></circle>
+                <g id="scatter-plot-matrix" transform="translate(37.000000, 37.000000)">
+                    <g id="two-dimensional-axes" transform="translate(0.000000, 57.000000)" fill="#FFFFFF">
+                        <path d="M30.5,-28 L30.5,-28 C31.3284271,-28 32,-27.3284271 32,-26.5 L32,30.5 C32,31.3284271 31.3284271,32 30.5,32 L30.5,32 C29.6715729,32 29,31.3284271 29,30.5 L29,-26.5 C29,-27.3284271 29.6715729,-28 30.5,-28 Z" id="Rectangle" transform="translate(30.500000, 2.000000) rotate(90.000000) translate(-30.500000, -2.000000) "></path>
+                    </g>
+                    <g id="two-dimensional-axes" fill="#FFFFFF">
+                        <path d="M30.5,-28 L30.5,-28 C31.3284271,-28 32,-27.3284271 32,-26.5 L32,30.5 C32,31.3284271 31.3284271,32 30.5,32 L30.5,32 C29.6715729,32 29,31.3284271 29,30.5 L29,-26.5 C29,-27.3284271 29.6715729,-28 30.5,-28 Z" id="Rectangle" transform="translate(30.500000, 2.000000) rotate(90.000000) translate(-30.500000, -2.000000) "></path>
+                    </g>
+                    <g id="two-dimensional-axes" transform="translate(2.000000, 30.500000) rotate(-90.000000) translate(-2.000000, -30.500000) translate(-28.000000, 29.000000)" fill="#FFFFFF">
+                        <path d="M30,-28.5 L30,-28.5 C30.8284271,-28.5 31.5,-27.8284271 31.5,-27 L31.5,30 C31.5,30.8284271 30.8284271,31.5 30,31.5 L30,31.5 C29.1715729,31.5 28.5,30.8284271 28.5,30 L28.5,-27 C28.5,-27.8284271 29.1715729,-28.5 30,-28.5 Z" id="Rectangle" transform="translate(30.000000, 1.500000) rotate(90.000000) translate(-30.000000, -1.500000) "></path>
+                    </g>
+                    <g id="two-dimensional-axes" transform="translate(59.000000, 30.500000) rotate(-90.000000) translate(-59.000000, -30.500000) translate(29.000000, 29.000000)" fill="#FFFFFF">
+                        <path d="M30,-28.5 L30,-28.5 C30.8284271,-28.5 31.5,-27.8284271 31.5,-27 L31.5,30 C31.5,30.8284271 30.8284271,31.5 30,31.5 L30,31.5 C29.1715729,31.5 28.5,30.8284271 28.5,30 L28.5,-27 C28.5,-27.8284271 29.1715729,-28.5 30,-28.5 Z" id="Rectangle" transform="translate(30.000000, 1.500000) rotate(90.000000) translate(-30.000000, -1.500000) "></path>
+                    </g>
+                    <path d="M4,20.5 L57.1054155,20.5" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                    <path d="M4,41.5 L57.1054155,41.5761451" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                    <path d="M-5.5,30.5 L47.5,30.5" id="Line" stroke="#FFFFFF" stroke-linecap="square" transform="translate(21.000000, 30.500000) rotate(90.000000) translate(-21.000000, -30.500000) "></path>
+                    <path d="M13.5,30.5 L66.5,30.5" id="Line" stroke="#FFFFFF" stroke-linecap="square" transform="translate(40.000000, 30.500000) rotate(90.000000) translate(-40.000000, -30.500000) "></path>
+                    <g id="Group" transform="translate(7.000000, 45.000000)" fill="#FFFFFF">
+                        <ellipse id="Oval" cx="2.69230769" cy="5.89285714" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval" cx="2.69230769" cy="6.67857143" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval" cx="4.23076923" cy="6.67857143" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval" cx="4.23076923" cy="4.32142857" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval" cx="4.23076923" cy="6.67857143" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-10" cx="1.15384615" cy="9.03571429" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-13" cx="5.76923077" cy="3.53571429" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-26" cx="6.53846154" cy="3.53571429" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-27" cx="7.30769231" cy="1.96428571" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-28" cx="8.07692308" cy="4.32142857" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-14" cx="8.07692308" cy="2.75" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-15" cx="7.30769231" cy="5.89285714" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-16" cx="1.15384615" cy="9.82142857" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-17" cx="0.384615385" cy="10.6071429" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-18" cx="3.46153846" cy="8.25" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-19" cx="1.92307692" cy="9.82142857" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-20" cx="4.23076923" cy="7.46428571" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-21" cx="5.76923077" cy="6.67857143" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-22" cx="5" cy="5.10714286" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-23" cx="5" cy="5.89285714" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-24" cx="2.69230769" cy="9.03571429" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-25" cx="1.92307692" cy="8.25" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-11" cx="9.61538462" cy="0.392857143" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-12" cx="6.53846154" cy="4.32142857" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="Group" transform="translate(48.400127, 31.583997) rotate(153.000000) translate(-48.400127, -31.583997) translate(43.400127, 26.083997)" fill="#FFFFFF">
+                        <circle id="Oval" cx="2.625" cy="5.625" r="1"></circle>
+                        <circle id="Oval" cx="2.625" cy="6.375" r="1"></circle>
+                        <circle id="Oval" cx="4.125" cy="6.375" r="1"></circle>
+                        <circle id="Oval" cx="4.125" cy="4.125" r="1"></circle>
+                        <circle id="Oval" cx="4.125" cy="6.375" r="1"></circle>
+                        <circle id="Oval-Copy-10" cx="1.125" cy="8.625" r="1"></circle>
+                        <circle id="Oval-Copy-13" cx="5.625" cy="3.375" r="1"></circle>
+                        <circle id="Oval-Copy-26" cx="6.375" cy="3.375" r="1"></circle>
+                        <circle id="Oval-Copy-27" cx="7.125" cy="1.875" r="1"></circle>
+                        <circle id="Oval-Copy-28" cx="7.875" cy="4.125" r="1"></circle>
+                        <circle id="Oval-Copy-14" cx="7.875" cy="2.625" r="1"></circle>
+                        <circle id="Oval-Copy-15" cx="7.125" cy="5.625" r="1"></circle>
+                        <circle id="Oval-Copy-16" cx="1.125" cy="9.375" r="1"></circle>
+                        <circle id="Oval-Copy-17" cx="0.375" cy="10.125" r="1"></circle>
+                        <circle id="Oval-Copy-18" cx="3.375" cy="7.875" r="1"></circle>
+                        <circle id="Oval-Copy-19" cx="1.875" cy="9.375" r="1"></circle>
+                        <circle id="Oval-Copy-20" cx="4.125" cy="7.125" r="1"></circle>
+                        <circle id="Oval-Copy-21" cx="5.625" cy="6.375" r="1"></circle>
+                        <circle id="Oval-Copy-22" cx="4.875" cy="4.875" r="1"></circle>
+                        <circle id="Oval-Copy-23" cx="4.875" cy="5.625" r="1"></circle>
+                        <circle id="Oval-Copy-24" cx="2.625" cy="8.625" r="1"></circle>
+                        <circle id="Oval-Copy-25" cx="1.875" cy="7.875" r="1"></circle>
+                        <circle id="Oval-Copy-11" cx="9.375" cy="0.375" r="1"></circle>
+                        <circle id="Oval-Copy-12" cx="6.375" cy="4.125" r="1"></circle>
+                    </g>
+                    <g id="Group" transform="translate(25.000000, 44.000000)" fill="#FFFFFF">
+                        <ellipse id="Oval" cx="2.69230769" cy="5.89285714" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval" cx="2.69230769" cy="6.67857143" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval" cx="4.23076923" cy="6.67857143" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval" cx="4.23076923" cy="4.32142857" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval" cx="4.23076923" cy="6.67857143" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-10" cx="1.15384615" cy="9.03571429" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-13" cx="5.76923077" cy="3.53571429" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-26" cx="6.53846154" cy="3.53571429" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-27" cx="7.30769231" cy="1.96428571" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-28" cx="8.07692308" cy="4.32142857" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-14" cx="8.07692308" cy="2.75" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-15" cx="7.30769231" cy="5.89285714" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-16" cx="1.15384615" cy="9.82142857" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-17" cx="0.384615385" cy="10.6071429" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-18" cx="3.46153846" cy="8.25" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-19" cx="1.92307692" cy="9.82142857" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-20" cx="4.23076923" cy="7.46428571" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-21" cx="5.76923077" cy="6.67857143" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-22" cx="5" cy="5.10714286" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-23" cx="5" cy="5.89285714" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-24" cx="2.69230769" cy="9.03571429" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-25" cx="1.92307692" cy="8.25" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-11" cx="9.61538462" cy="0.392857143" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-12" cx="6.53846154" cy="4.32142857" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="Group" transform="translate(26.000000, 42.000000)" fill="#FFFFFF">
+                        <ellipse id="Oval" cx="2.69230769" cy="5.89285714" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval" cx="2.69230769" cy="6.67857143" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval" cx="4.23076923" cy="6.67857143" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval" cx="4.23076923" cy="4.32142857" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval" cx="4.23076923" cy="6.67857143" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-10" cx="1.15384615" cy="9.03571429" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-13" cx="5.76923077" cy="3.53571429" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-26" cx="6.53846154" cy="3.53571429" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-27" cx="7.30769231" cy="1.96428571" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-28" cx="8.07692308" cy="4.32142857" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-14" cx="8.07692308" cy="2.75" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-15" cx="7.30769231" cy="5.89285714" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-16" cx="1.15384615" cy="9.82142857" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-17" cx="0.384615385" cy="10.6071429" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-18" cx="3.46153846" cy="8.25" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-19" cx="1.92307692" cy="9.82142857" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-20" cx="4.23076923" cy="7.46428571" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-21" cx="5.76923077" cy="6.67857143" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-22" cx="5" cy="5.10714286" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-23" cx="5" cy="5.89285714" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-24" cx="2.69230769" cy="9.03571429" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-25" cx="1.92307692" cy="8.25" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-11" cx="9.61538462" cy="0.392857143" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-12" cx="6.53846154" cy="4.32142857" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="Group" transform="translate(25.000000, 45.000000)" fill="#FFFFFF">
+                        <ellipse id="Oval" cx="2.69230769" cy="5.89285714" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval" cx="2.69230769" cy="6.67857143" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval" cx="4.23076923" cy="6.67857143" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval" cx="4.23076923" cy="4.32142857" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval" cx="4.23076923" cy="6.67857143" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-10" cx="1.15384615" cy="9.03571429" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-13" cx="5.76923077" cy="3.53571429" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-26" cx="6.53846154" cy="3.53571429" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-27" cx="7.30769231" cy="1.96428571" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-28" cx="8.07692308" cy="4.32142857" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-14" cx="8.07692308" cy="2.75" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-15" cx="7.30769231" cy="5.89285714" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-16" cx="1.15384615" cy="9.82142857" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-17" cx="0.384615385" cy="10.6071429" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-18" cx="3.46153846" cy="8.25" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-19" cx="1.92307692" cy="9.82142857" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-20" cx="4.23076923" cy="7.46428571" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-21" cx="5.76923077" cy="6.67857143" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-22" cx="5" cy="5.10714286" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-23" cx="5" cy="5.89285714" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-24" cx="2.69230769" cy="9.03571429" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-25" cx="1.92307692" cy="8.25" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-11" cx="9.61538462" cy="0.392857143" rx="1" ry="1"></ellipse>
+                        <ellipse id="Oval-Copy-12" cx="6.53846154" cy="4.32142857" rx="1" ry="1"></ellipse>
+                    </g>
+                    <g id="Group" transform="translate(11.843674, 32.027748) rotate(33.000000) translate(-11.843674, -32.027748) translate(6.843674, 26.527748)" fill="#FFFFFF">
+                        <circle id="Oval" cx="2.625" cy="5.625" r="1"></circle>
+                        <circle id="Oval" cx="2.625" cy="6.375" r="1"></circle>
+                        <circle id="Oval" cx="4.125" cy="6.375" r="1"></circle>
+                        <circle id="Oval" cx="4.125" cy="4.125" r="1"></circle>
+                        <circle id="Oval" cx="4.125" cy="6.375" r="1"></circle>
+                        <circle id="Oval-Copy-10" cx="1.125" cy="8.625" r="1"></circle>
+                        <circle id="Oval-Copy-13" cx="5.625" cy="3.375" r="1"></circle>
+                        <circle id="Oval-Copy-26" cx="6.375" cy="3.375" r="1"></circle>
+                        <circle id="Oval-Copy-27" cx="7.125" cy="1.875" r="1"></circle>
+                        <circle id="Oval-Copy-28" cx="7.875" cy="4.125" r="1"></circle>
+                        <circle id="Oval-Copy-14" cx="7.875" cy="2.625" r="1"></circle>
+                        <circle id="Oval-Copy-15" cx="7.125" cy="5.625" r="1"></circle>
+                        <circle id="Oval-Copy-16" cx="1.125" cy="9.375" r="1"></circle>
+                        <circle id="Oval-Copy-17" cx="0.375" cy="10.125" r="1"></circle>
+                        <circle id="Oval-Copy-18" cx="3.375" cy="7.875" r="1"></circle>
+                        <circle id="Oval-Copy-19" cx="1.875" cy="9.375" r="1"></circle>
+                        <circle id="Oval-Copy-20" cx="4.125" cy="7.125" r="1"></circle>
+                        <circle id="Oval-Copy-21" cx="5.625" cy="6.375" r="1"></circle>
+                        <circle id="Oval-Copy-22" cx="4.875" cy="4.875" r="1"></circle>
+                        <circle id="Oval-Copy-23" cx="4.875" cy="5.625" r="1"></circle>
+                        <circle id="Oval-Copy-24" cx="2.625" cy="8.625" r="1"></circle>
+                        <circle id="Oval-Copy-25" cx="1.875" cy="7.875" r="1"></circle>
+                        <circle id="Oval-Copy-11" cx="9.375" cy="0.375" r="1"></circle>
+                        <circle id="Oval-Copy-12" cx="6.375" cy="4.125" r="1"></circle>
+                    </g>
+                    <g id="Group" transform="translate(49.916548, 12.835883) rotate(33.000000) translate(-49.916548, -12.835883) translate(44.916548, 7.335883)" fill="#FFFFFF">
+                        <circle id="Oval" cx="2.625" cy="5.625" r="1"></circle>
+                        <circle id="Oval" cx="2.625" cy="6.375" r="1"></circle>
+                        <circle id="Oval" cx="4.125" cy="6.375" r="1"></circle>
+                        <circle id="Oval" cx="4.125" cy="4.125" r="1"></circle>
+                        <circle id="Oval" cx="4.125" cy="6.375" r="1"></circle>
+                        <circle id="Oval-Copy-10" cx="1.125" cy="8.625" r="1"></circle>
+                        <circle id="Oval-Copy-13" cx="5.625" cy="3.375" r="1"></circle>
+                        <circle id="Oval-Copy-26" cx="6.375" cy="3.375" r="1"></circle>
+                        <circle id="Oval-Copy-27" cx="7.125" cy="1.875" r="1"></circle>
+                        <circle id="Oval-Copy-28" cx="7.875" cy="4.125" r="1"></circle>
+                        <circle id="Oval-Copy-14" cx="7.875" cy="2.625" r="1"></circle>
+                        <circle id="Oval-Copy-15" cx="7.125" cy="5.625" r="1"></circle>
+                        <circle id="Oval-Copy-16" cx="1.125" cy="9.375" r="1"></circle>
+                        <circle id="Oval-Copy-17" cx="0.375" cy="10.125" r="1"></circle>
+                        <circle id="Oval-Copy-18" cx="3.375" cy="7.875" r="1"></circle>
+                        <circle id="Oval-Copy-19" cx="1.875" cy="9.375" r="1"></circle>
+                        <circle id="Oval-Copy-20" cx="4.125" cy="7.125" r="1"></circle>
+                        <circle id="Oval-Copy-21" cx="5.625" cy="6.375" r="1"></circle>
+                        <circle id="Oval-Copy-22" cx="4.875" cy="4.875" r="1"></circle>
+                        <circle id="Oval-Copy-23" cx="4.875" cy="5.625" r="1"></circle>
+                        <circle id="Oval-Copy-24" cx="2.625" cy="8.625" r="1"></circle>
+                        <circle id="Oval-Copy-25" cx="1.875" cy="7.875" r="1"></circle>
+                        <circle id="Oval-Copy-11" cx="9.375" cy="0.375" r="1"></circle>
+                        <circle id="Oval-Copy-12" cx="6.375" cy="4.125" r="1"></circle>
+                    </g>
+                    <g id="Group-2" transform="translate(25.000000, 25.000000)" fill="#FFFFFF">
+                        <g id="Group" transform="translate(3.058824, 0.000000)">
+                            <ellipse id="Oval" cx="2.67647059" cy="5.83333333" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval" cx="2.67647059" cy="6.61111111" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval" cx="4.20588235" cy="6.61111111" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval" cx="4.20588235" cy="4.27777778" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval" cx="4.20588235" cy="6.61111111" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-10" cx="1.14705882" cy="8.94444444" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-13" cx="5.73529412" cy="3.5" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-26" cx="6.5" cy="3.5" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-27" cx="7.26470588" cy="1.94444444" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-28" cx="8.02941176" cy="4.27777778" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-14" cx="8.02941176" cy="2.72222222" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-15" cx="7.26470588" cy="5.83333333" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-16" cx="1.14705882" cy="9.72222222" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-17" cx="0.382352941" cy="10.5" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-18" cx="3.44117647" cy="8.16666667" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-19" cx="1.91176471" cy="9.72222222" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-20" cx="4.20588235" cy="7.38888889" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-21" cx="5.73529412" cy="6.61111111" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-22" cx="4.97058824" cy="5.05555556" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-23" cx="4.97058824" cy="5.83333333" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-24" cx="2.67647059" cy="8.94444444" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-25" cx="1.91176471" cy="8.16666667" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-11" cx="9.55882353" cy="0.388888889" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-12" cx="6.5" cy="4.27777778" rx="1" ry="1"></ellipse>
+                        </g>
+                        <g id="Group" transform="translate(0.000000, 3.111111)">
+                            <ellipse id="Oval" cx="2.67647059" cy="5.83333333" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval" cx="2.67647059" cy="6.61111111" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval" cx="4.20588235" cy="6.61111111" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval" cx="4.20588235" cy="4.27777778" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval" cx="4.20588235" cy="6.61111111" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-10" cx="1.14705882" cy="8.94444444" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-13" cx="5.73529412" cy="3.5" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-26" cx="6.5" cy="3.5" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-27" cx="7.26470588" cy="1.94444444" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-28" cx="8.02941176" cy="4.27777778" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-14" cx="8.02941176" cy="2.72222222" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-15" cx="7.26470588" cy="5.83333333" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-16" cx="1.14705882" cy="9.72222222" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-17" cx="0.382352941" cy="10.5" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-18" cx="3.44117647" cy="8.16666667" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-19" cx="1.91176471" cy="9.72222222" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-20" cx="4.20588235" cy="7.38888889" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-21" cx="5.73529412" cy="6.61111111" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-22" cx="4.97058824" cy="5.05555556" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-23" cx="4.97058824" cy="5.83333333" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-24" cx="2.67647059" cy="8.94444444" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-25" cx="1.91176471" cy="8.16666667" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-11" cx="9.55882353" cy="0.388888889" rx="1" ry="1"></ellipse>
+                            <ellipse id="Oval-Copy-12" cx="6.5" cy="4.27777778" rx="1" ry="1"></ellipse>
+                        </g>
+                    </g>
+                    <g id="Group-2" transform="translate(48.041497, 49.858917) rotate(167.000000) translate(-48.041497, -49.858917) translate(41.541497, 42.858917)" fill="#FFFFFF">
+                        <g id="Group" transform="translate(3.000000, 0.000000)">
+                            <circle id="Oval" cx="2.625" cy="5.625" r="1"></circle>
+                            <circle id="Oval" cx="2.625" cy="6.375" r="1"></circle>
+                            <circle id="Oval" cx="4.125" cy="6.375" r="1"></circle>
+                            <circle id="Oval" cx="4.125" cy="4.125" r="1"></circle>
+                            <circle id="Oval" cx="4.125" cy="6.375" r="1"></circle>
+                            <circle id="Oval-Copy-10" cx="1.125" cy="8.625" r="1"></circle>
+                            <circle id="Oval-Copy-13" cx="5.625" cy="3.375" r="1"></circle>
+                            <circle id="Oval-Copy-26" cx="6.375" cy="3.375" r="1"></circle>
+                            <circle id="Oval-Copy-27" cx="7.125" cy="1.875" r="1"></circle>
+                            <circle id="Oval-Copy-28" cx="7.875" cy="4.125" r="1"></circle>
+                            <circle id="Oval-Copy-14" cx="7.875" cy="2.625" r="1"></circle>
+                            <circle id="Oval-Copy-15" cx="7.125" cy="5.625" r="1"></circle>
+                            <circle id="Oval-Copy-16" cx="1.125" cy="9.375" r="1"></circle>
+                            <circle id="Oval-Copy-17" cx="0.375" cy="10.125" r="1"></circle>
+                            <circle id="Oval-Copy-18" cx="3.375" cy="7.875" r="1"></circle>
+                            <circle id="Oval-Copy-19" cx="1.875" cy="9.375" r="1"></circle>
+                            <circle id="Oval-Copy-20" cx="4.125" cy="7.125" r="1"></circle>
+                            <circle id="Oval-Copy-21" cx="5.625" cy="6.375" r="1"></circle>
+                            <circle id="Oval-Copy-22" cx="4.875" cy="4.875" r="1"></circle>
+                            <circle id="Oval-Copy-23" cx="4.875" cy="5.625" r="1"></circle>
+                            <circle id="Oval-Copy-24" cx="2.625" cy="8.625" r="1"></circle>
+                            <circle id="Oval-Copy-25" cx="1.875" cy="7.875" r="1"></circle>
+                            <circle id="Oval-Copy-11" cx="9.375" cy="0.375" r="1"></circle>
+                            <circle id="Oval-Copy-12" cx="6.375" cy="4.125" r="1"></circle>
+                        </g>
+                        <g id="Group" transform="translate(0.000000, 3.000000)">
+                            <circle id="Oval" cx="2.625" cy="5.625" r="1"></circle>
+                            <circle id="Oval" cx="2.625" cy="6.375" r="1"></circle>
+                            <circle id="Oval" cx="4.125" cy="6.375" r="1"></circle>
+                            <circle id="Oval" cx="4.125" cy="4.125" r="1"></circle>
+                            <circle id="Oval" cx="4.125" cy="6.375" r="1"></circle>
+                            <circle id="Oval-Copy-10" cx="1.125" cy="8.625" r="1"></circle>
+                            <circle id="Oval-Copy-13" cx="5.625" cy="3.375" r="1"></circle>
+                            <circle id="Oval-Copy-26" cx="6.375" cy="3.375" r="1"></circle>
+                            <circle id="Oval-Copy-27" cx="7.125" cy="1.875" r="1"></circle>
+                            <circle id="Oval-Copy-28" cx="7.875" cy="4.125" r="1"></circle>
+                            <circle id="Oval-Copy-14" cx="7.875" cy="2.625" r="1"></circle>
+                            <circle id="Oval-Copy-15" cx="7.125" cy="5.625" r="1"></circle>
+                            <circle id="Oval-Copy-16" cx="1.125" cy="9.375" r="1"></circle>
+                            <circle id="Oval-Copy-17" cx="0.375" cy="10.125" r="1"></circle>
+                            <circle id="Oval-Copy-18" cx="3.375" cy="7.875" r="1"></circle>
+                            <circle id="Oval-Copy-19" cx="1.875" cy="9.375" r="1"></circle>
+                            <circle id="Oval-Copy-20" cx="4.125" cy="7.125" r="1"></circle>
+                            <circle id="Oval-Copy-21" cx="5.625" cy="6.375" r="1"></circle>
+                            <circle id="Oval-Copy-22" cx="4.875" cy="4.875" r="1"></circle>
+                            <circle id="Oval-Copy-23" cx="4.875" cy="5.625" r="1"></circle>
+                            <circle id="Oval-Copy-24" cx="2.625" cy="8.625" r="1"></circle>
+                            <circle id="Oval-Copy-25" cx="1.875" cy="7.875" r="1"></circle>
+                            <circle id="Oval-Copy-11" cx="9.375" cy="0.375" r="1"></circle>
+                            <circle id="Oval-Copy-12" cx="6.375" cy="4.125" r="1"></circle>
+                        </g>
+                    </g>
+                    <g id="Group" transform="translate(29.573941, 12.572077) rotate(173.000000) translate(-29.573941, -12.572077) translate(24.573941, 7.072077)" fill="#FFFFFF">
+                        <circle id="Oval" cx="2.625" cy="5.625" r="1"></circle>
+                        <circle id="Oval" cx="2.625" cy="6.375" r="1"></circle>
+                        <circle id="Oval" cx="4.125" cy="6.375" r="1"></circle>
+                        <circle id="Oval" cx="4.125" cy="4.125" r="1"></circle>
+                        <circle id="Oval" cx="4.125" cy="6.375" r="1"></circle>
+                        <circle id="Oval-Copy-10" cx="1.125" cy="8.625" r="1"></circle>
+                        <circle id="Oval-Copy-13" cx="5.625" cy="3.375" r="1"></circle>
+                        <circle id="Oval-Copy-26" cx="6.375" cy="3.375" r="1"></circle>
+                        <circle id="Oval-Copy-27" cx="7.125" cy="1.875" r="1"></circle>
+                        <circle id="Oval-Copy-28" cx="7.875" cy="4.125" r="1"></circle>
+                        <circle id="Oval-Copy-14" cx="7.875" cy="2.625" r="1"></circle>
+                        <circle id="Oval-Copy-15" cx="7.125" cy="5.625" r="1"></circle>
+                        <circle id="Oval-Copy-16" cx="1.125" cy="9.375" r="1"></circle>
+                        <circle id="Oval-Copy-17" cx="0.375" cy="10.125" r="1"></circle>
+                        <circle id="Oval-Copy-18" cx="3.375" cy="7.875" r="1"></circle>
+                        <circle id="Oval-Copy-19" cx="1.875" cy="9.375" r="1"></circle>
+                        <circle id="Oval-Copy-20" cx="4.125" cy="7.125" r="1"></circle>
+                        <circle id="Oval-Copy-21" cx="5.625" cy="6.375" r="1"></circle>
+                        <circle id="Oval-Copy-22" cx="4.875" cy="4.875" r="1"></circle>
+                        <circle id="Oval-Copy-23" cx="4.875" cy="5.625" r="1"></circle>
+                        <circle id="Oval-Copy-24" cx="2.625" cy="8.625" r="1"></circle>
+                        <circle id="Oval-Copy-25" cx="1.875" cy="7.875" r="1"></circle>
+                        <circle id="Oval-Copy-11" cx="9.375" cy="0.375" r="1"></circle>
+                        <circle id="Oval-Copy-12" cx="6.375" cy="4.125" r="1"></circle>
+                    </g>
+                    <g id="Group" transform="translate(11.573941, 13.322077) rotate(173.000000) translate(-11.573941, -13.322077) translate(6.573941, 7.822077)" fill="#FFFFFF">
+                        <circle id="Oval" cx="2.625" cy="5.625" r="1"></circle>
+                        <circle id="Oval" cx="2.625" cy="6.375" r="1"></circle>
+                        <circle id="Oval" cx="4.125" cy="6.375" r="1"></circle>
+                        <circle id="Oval" cx="4.125" cy="4.125" r="1"></circle>
+                        <circle id="Oval" cx="4.125" cy="6.375" r="1"></circle>
+                        <circle id="Oval-Copy-10" cx="1.125" cy="8.625" r="1"></circle>
+                        <circle id="Oval-Copy-13" cx="5.625" cy="3.375" r="1"></circle>
+                        <circle id="Oval-Copy-26" cx="6.375" cy="3.375" r="1"></circle>
+                        <circle id="Oval-Copy-27" cx="7.125" cy="1.875" r="1"></circle>
+                        <circle id="Oval-Copy-28" cx="7.875" cy="4.125" r="1"></circle>
+                        <circle id="Oval-Copy-14" cx="7.875" cy="2.625" r="1"></circle>
+                        <circle id="Oval-Copy-15" cx="7.125" cy="5.625" r="1"></circle>
+                        <circle id="Oval-Copy-16" cx="1.125" cy="9.375" r="1"></circle>
+                        <circle id="Oval-Copy-17" cx="0.375" cy="10.125" r="1"></circle>
+                        <circle id="Oval-Copy-18" cx="3.375" cy="7.875" r="1"></circle>
+                        <circle id="Oval-Copy-19" cx="1.875" cy="9.375" r="1"></circle>
+                        <circle id="Oval-Copy-20" cx="4.125" cy="7.125" r="1"></circle>
+                        <circle id="Oval-Copy-21" cx="5.625" cy="6.375" r="1"></circle>
+                        <circle id="Oval-Copy-22" cx="4.875" cy="4.875" r="1"></circle>
+                        <circle id="Oval-Copy-23" cx="4.875" cy="5.625" r="1"></circle>
+                        <circle id="Oval-Copy-24" cx="2.625" cy="8.625" r="1"></circle>
+                        <circle id="Oval-Copy-25" cx="1.875" cy="7.875" r="1"></circle>
+                        <circle id="Oval-Copy-11" cx="9.375" cy="0.375" r="1"></circle>
+                        <circle id="Oval-Copy-12" cx="6.375" cy="4.125" r="1"></circle>
+                    </g>
+                    <g id="Group" transform="translate(14.216792, 10.857547) rotate(352.000000) translate(-14.216792, -10.857547) translate(9.216792, 5.357547)" fill="#FFFFFF">
+                        <circle id="Oval" cx="2.625" cy="5.625" r="1"></circle>
+                        <circle id="Oval" cx="2.625" cy="6.375" r="1"></circle>
+                        <circle id="Oval" cx="4.125" cy="6.375" r="1"></circle>
+                        <circle id="Oval" cx="4.125" cy="4.125" r="1"></circle>
+                        <circle id="Oval" cx="4.125" cy="6.375" r="1"></circle>
+                        <circle id="Oval-Copy-10" cx="1.125" cy="8.625" r="1"></circle>
+                        <circle id="Oval-Copy-13" cx="5.625" cy="3.375" r="1"></circle>
+                        <circle id="Oval-Copy-26" cx="6.375" cy="3.375" r="1"></circle>
+                        <circle id="Oval-Copy-27" cx="7.125" cy="1.875" r="1"></circle>
+                        <circle id="Oval-Copy-28" cx="7.875" cy="4.125" r="1"></circle>
+                        <circle id="Oval-Copy-14" cx="7.875" cy="2.625" r="1"></circle>
+                        <circle id="Oval-Copy-15" cx="7.125" cy="5.625" r="1"></circle>
+                        <circle id="Oval-Copy-16" cx="1.125" cy="9.375" r="1"></circle>
+                        <circle id="Oval-Copy-17" cx="0.375" cy="10.125" r="1"></circle>
+                        <circle id="Oval-Copy-18" cx="3.375" cy="7.875" r="1"></circle>
+                        <circle id="Oval-Copy-19" cx="1.875" cy="9.375" r="1"></circle>
+                        <circle id="Oval-Copy-20" cx="4.125" cy="7.125" r="1"></circle>
+                        <circle id="Oval-Copy-21" cx="5.625" cy="6.375" r="1"></circle>
+                        <circle id="Oval-Copy-22" cx="4.875" cy="4.875" r="1"></circle>
+                        <circle id="Oval-Copy-23" cx="4.875" cy="5.625" r="1"></circle>
+                        <circle id="Oval-Copy-24" cx="2.625" cy="8.625" r="1"></circle>
+                        <circle id="Oval-Copy-25" cx="1.875" cy="7.875" r="1"></circle>
+                        <circle id="Oval-Copy-11" cx="9.375" cy="0.375" r="1"></circle>
+                        <circle id="Oval-Copy-12" cx="6.375" cy="4.125" r="1"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

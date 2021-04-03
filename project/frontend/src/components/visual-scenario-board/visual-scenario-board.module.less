@@ -1,0 +1,104 @@
+@import '../../variables.less';
+@import '~antd/dist/antd.less';
+
+@right-panel-width: 220px;
+@sample-list-header-height: 25px;
+@sample-list-height: 145px;
+
+.container{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  height: ~"calc(@{app-content-height} - @{app-content-padding-vertical})";
+  .left-panel{
+    width: ~"calc(100% - 40px - @{right-panel-width})";
+    display: flex;
+    flex-direction: column;
+    .chart{
+      flex: 0 0 ~"calc(100% - 40px - @{sample-list-height} - @{sample-list-header-height})";
+      width: 100%;
+      overflow: auto;
+      position: relative;
+      &__edit-btn{
+        position: absolute;
+        top: 5px;
+        right: 0;
+        z-index: 1;
+      }
+      &__more-charts{
+        position: relative;
+        margin-top: 10px;
+        .more-charts{
+
+          &__variables{
+            margin-bottom: 10px;
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+          }
+
+          &__title{
+            margin-bottom: 5px;
+          }
+
+          &__select{
+            flex: 0 0 300px;
+          }
+
+          &__confirm{
+            position: absolute;
+            top: 0px;
+            right: 0px;
+          }
+
+          &__chart-cards{
+            width: 100%;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: flex-start;
+          }
+        }
+
+      }
+    }
+    .sample-list-header{
+      flex: 0 0 @sample-list-header-height;
+      margin-top: 20px;
+      margin-bottom: 10px;
+      font-weight: bold;
+    }
+    .sample-list{
+      flex: 0 0 @sample-list-height;
+      overflow-y: auto;
+      padding: 0 5px;
+    }
+    &--without-right-panel{
+      width: ~"calc(100% - 40px)";
+    }
+  }
+  .right-panel{
+    flex: 0 0 @right-panel-width;
+    height: ~"calc(@{app-content-height} - @{app-content-padding-vertical})";
+    padding: 0 20px;
+    padding-right: 0px;
+    border-left: @border-color-base @border-width-base @border-style-base;
+    &__header-group{
+      height: 150px;
+      .panel{
+        &__header{
+          font-weight: bold;
+          margin-bottom: 20px;
+        }
+        &__reset-btn{
+          margin-bottom: 10px;
+        }
+      }
+    }
+    &__slider-list{
+      height: ~"calc(100% - 150px)";
+      overflow-y: auto;
+      padding-right: 20px;
+      padding-left: 1px;
+    }
+  }
+}

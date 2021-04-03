@@ -1,0 +1,96 @@
+@import '~antd/dist/antd.less';
+.step-item {
+  &:hover{
+    cursor: pointer;
+  }
+  &--disabled{
+    &:hover{
+      cursor: not-allowed;
+    }
+  }
+  &--active{
+    color: @text-color !important;
+    border-color: @primary-color !important;
+  }
+}
+
+.hint {
+  margin-bottom: 10px;
+  text-decoration: underline;
+  &:hover {
+    cursor: pointer;
+    color: @primary-color;
+  }
+}
+
+.content {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+
+  &__title{
+    font-size: @font-size-lg;
+    font-weight: 500;
+  }
+
+  &__select{
+    width: 50%;
+  }
+  &__card-group{
+    margin-bottom: 30px;
+  }
+  &__card-list{
+    display: flex;
+  }
+  &__summary{
+    display: flex;
+    align-items: flex-start;
+    width: 100%;
+    .information{
+      margin-right: 50px;
+      width: 400px;
+      flex-shrink: 0;
+      .info-item{
+        margin-bottom: 20px;
+        &__header{
+          line-height: 40px;
+          font-weight: bold;
+        }
+        &__variable{
+          height: 35px;
+          overflow-x: auto;
+          white-space: nowrap;
+        }
+      }
+    }
+    .form{
+      width: 300px;
+      flex-shrink: 0;
+
+      .submit-btn-group{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+    }
+  }
+}
+
+
+
+.step-control{
+  display: flex;
+  margin-top: 30px;
+  &__prev{
+    margin-right: 20px;
+    &--hide{
+      display: none !important;
+    }
+  }
+  &__next{
+    &--hide{
+      display: none !important;
+    }
+  }
+}

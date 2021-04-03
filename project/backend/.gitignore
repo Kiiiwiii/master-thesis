@@ -1,0 +1,12 @@
+node_modules
+dist
+
+files/*.ifc
+files/*.obj
+files/*.mtl
+files/*.csv
+
+config.json
+
+public/user-study-only/V2.2.obj
+public/user-study-only/V2.2.mtl

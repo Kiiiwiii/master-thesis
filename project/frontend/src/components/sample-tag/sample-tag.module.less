@@ -1,0 +1,30 @@
+@import '~antd/dist/antd.less';
+
+.btn-group {
+  margin: 0 10px 10px 0;
+}
+.panel {
+  width: 650px;
+  height: 400px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+
+  &__visual{
+    width: 399px;
+    height: 100%;
+    border-right: 1px solid @border-color-base
+  }
+
+  &__info{
+      width: 200px;
+      min-height: 50px;
+      max-height: 350px;
+      overflow-y: scroll;
+  }
+
+  &__image{
+    width: 350px;
+    height: auto;
+  }
+}

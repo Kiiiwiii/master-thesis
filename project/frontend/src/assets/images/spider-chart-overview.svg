@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="134px" height="134px" viewBox="0 0 134 134" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>spider-chart-overview</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Chart-Icon-Sets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-701.000000, -383.000000)">
+            <g id="spider-chart-overview" transform="translate(701.000000, 383.000000)">
+                <circle id="Oval" fill="#1890FF" cx="67" cy="67" r="67"></circle>
+                <g id="spider-chart" transform="translate(23.000000, 23.000000)">
+                    <g id="Group-3">
+                        <path d="M44.5,0.618033989 L2.76577028,30.9397268 L18.7068275,80.0012562 L70.2931725,80.0012562 L86.2342297,30.9397268 L44.5,0.618033989 Z" id="Polygon" stroke="#C1C1C1"></path>
+                        <path d="M44.5,13.6147148 L14.6563184,34.9586264 L26.052367,69.4840353 L62.947633,69.4840353 L74.3436816,34.9586264 L44.5,13.6147148 Z" id="Polygon" stroke="#C1C1C1"></path>
+                        <path d="M44.5,25.6127399 L26.0704467,38.6678478 L33.1047027,59.7758314 L55.8952973,59.7758314 L62.9295533,38.6678478 L44.5,25.6127399 Z" id="Polygon" stroke="#C1C1C1"></path>
+                        <path d="M44.5,35.6075355 L35.5850539,41.7607685 L38.9795731,51.6856614 L50.0204269,51.6856614 L53.4149461,41.7607685 L44.5,35.6075355 Z" id="Polygon" stroke="#C1C1C1"></path>
+                        <path d="M2.5,30.5 L44.5,45" id="Line-2" stroke="#C1C1C1" stroke-linecap="square"></path>
+                        <path d="M44.5,0 L44.5,45" id="Line-3" stroke="#C1C1C1" stroke-linecap="square"></path>
+                        <path d="M19,79.5 L44.5,45" id="Line-4" stroke="#C1C1C1" stroke-linecap="square"></path>
+                        <path d="M44.5,44.5 L69.5,79.5" id="Line-5" stroke="#C1C1C1" stroke-linecap="square"></path>
+                        <path d="M44.5,45 L85.5,30.5" id="Line-6" stroke="#C1C1C1" stroke-linecap="square"></path>
+                        <polygon id="Path-5" stroke="#FFFFFF" points="12.5 35 44.5 22.5 69.5 35 65 75 31.75 62.25"></polygon>
+                        <polygon id="Path-6" stroke="#FFFFFF" points="23.5 37.75 44.5 9.18290154 80.2757729 32.3915206 58.6931797 64 37.5248607 54.8980668"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

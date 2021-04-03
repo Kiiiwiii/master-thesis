@@ -1,0 +1,25 @@
+.home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+
+  .home-logo {
+    height: 60vh;
+    animation: home-logo-spin infinite alternate 3s ease-in-out;
+
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}
+
+@keyframes home-logo-spin {
+  from {
+    transform: translateY(20px);
+  }
+
+  to {
+    transform: translateY(-20px);
+  }
+}

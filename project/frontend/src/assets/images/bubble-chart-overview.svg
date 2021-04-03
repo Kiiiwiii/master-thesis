@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="134px" height="134px" viewBox="0 0 134 134" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>bubble-chart-overview</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Chart-Icon-Sets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-701.000000, -214.000000)">
+            <g id="bubble-chart-overview" transform="translate(701.000000, 214.000000)">
+                <circle id="Oval" fill="#1890FF" cx="67" cy="67" r="67"></circle>
+                <g id="bubble" transform="translate(27.000000, 37.000000)">
+                    <g id="two-dimensional-axes" fill="#FFFFFF">
+                        <rect id="Rectangle" x="0" y="0" width="4" height="60" rx="2"></rect>
+                        <rect id="Rectangle" transform="translate(40.000000, 58.000000) rotate(90.000000) translate(-40.000000, -58.000000) " x="38" y="18" width="4" height="80" rx="2"></rect>
+                    </g>
+                    <circle id="Oval" fill="#FFFFFF" cx="31" cy="41" r="2"></circle>
+                    <circle id="Oval" fill="#EDEDED" cx="36" cy="11" r="6"></circle>
+                    <circle id="Oval-Copy" fill="#EDEDED" cx="48" cy="37" r="2"></circle>
+                    <circle id="Oval-Copy-2" fill="#AAA8A8" cx="48" cy="22" r="2"></circle>
+                    <circle id="Oval-Copy-3" fill="#EDEDED" cx="23" cy="22" r="2"></circle>
+                    <circle id="Oval-Copy-4" fill="#EDEDED" cx="19" cy="39" r="5"></circle>
+                    <circle id="Oval-Copy-5" fill="#FFFFFF" cx="33" cy="32" r="2"></circle>
+                    <circle id="Oval-Copy-6" fill="#FFFFFF" cx="43" cy="48" r="7"></circle>
+                    <circle id="Oval-Copy-7" fill="#EDEDED" cx="57" cy="30" r="2"></circle>
+                    <circle id="Oval-Copy-8" fill="#AAA8A8" cx="58" cy="44" r="4"></circle>
+                    <circle id="Oval-Copy-9" fill="#EDEDED" cx="43" cy="28" r="3"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

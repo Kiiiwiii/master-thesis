@@ -1,0 +1,36 @@
+@import '~antd/dist/antd.less';
+
+// component wrapper
+.chart-card {
+  .card-item {
+    &--selected {
+      border: @primary-color calc(~"@{border-width-base} + 1px") @border-style-base;
+
+      &:hover {
+        border: @primary-color calc(~"@{border-width-base} + 1px") @border-style-base;
+      }
+    }
+
+    & .ant-card-cover {
+      padding: 10px;
+      border-bottom: @border-color-base @border-width-base @border-style-base;
+
+      &:hover {
+        cursor: pointer;
+      }
+    }
+  }
+}
+
+.preview-container {
+  display: flex;
+  justify-content: center;
+  position: relative;
+
+  &__mask {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 1;
+  }
+}

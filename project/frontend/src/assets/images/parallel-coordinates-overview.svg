@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="134px" height="134px" viewBox="0 0 134 134" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>parallel-coordinates-overview</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Chart-Icon-Sets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-887.000000, -39.000000)">
+            <g id="parallel-coordinates-overview" transform="translate(887.000000, 39.000000)">
+                <circle id="Oval" fill="#1890FF" cx="67" cy="67" r="67"></circle>
+                <g id="parallel-coordinates" transform="translate(27.000000, 37.000000)">
+                    <polyline id="Path" stroke="#F3F3F3" points="2 53.3187753 21 37.1366141 40 49.720812 59 41.962821 78 11.5744198"></polyline>
+                    <polyline id="Path-2" stroke="#F3F3F3" points="2 37.7544856 21 33.6187277 40 40.5 59 28.726139 78 29.9114987"></polyline>
+                    <polyline id="Path-3" stroke="#F3F3F3" points="2 23.4135088 21 26.0403886 40 43.930516 59 12.9752555 78 23.4135088"></polyline>
+                    <polyline id="Path-4" stroke="#F3F3F3" points="2 13.9024759 21 20.5317958 40 29.5837367 59 23.4135088 78 45.1110389"></polyline>
+                    <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="4" height="60" rx="2"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" x="19" y="0" width="4" height="60" rx="2"></rect>
+                    <rect id="Rectangle-Copy" fill="#FFFFFF" x="38" y="0" width="4" height="60" rx="2"></rect>
+                    <rect id="Rectangle-Copy-2" fill="#FFFFFF" x="57" y="0" width="4" height="60" rx="2"></rect>
+                    <rect id="Rectangle-Copy-3" fill="#FFFFFF" x="76" y="0" width="4" height="60" rx="2"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

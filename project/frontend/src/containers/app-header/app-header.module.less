@@ -1,0 +1,32 @@
+@import '../../variables.less';
+@import '~antd/dist/antd.less';
+
+.wrapper {
+  height: @app-header-height;
+  background: @dark-color;
+  color: @white;
+  padding: 20px @app-content-padding-horizontal;
+  box-shadow: 0px 1px 8px 1px rgba(0, 0, 0, 0.2);
+}
+.header{
+  font-size: @app-title-level-1;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  &__drawer{
+    &:hover{
+      cursor: pointer;
+    }
+  }
+  &__title{
+    display: flex;
+    align-items: flex-start;
+    .title{
+      &__sub{
+        font-size: 12px;
+        margin-left: 5px;
+        margin-top: 6px;
+      }
+    }
+  }
+}
